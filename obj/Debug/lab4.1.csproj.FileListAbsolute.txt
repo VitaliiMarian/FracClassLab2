@@ -1,0 +1,7 @@
+C:\Users\lllll\OneDrive\Документы\ООП\lab4.1\bin\Debug\lab4.1.exe.config
+C:\Users\lllll\OneDrive\Документы\ООП\lab4.1\bin\Debug\lab4.1.exe
+C:\Users\lllll\OneDrive\Документы\ООП\lab4.1\bin\Debug\lab4.1.pdb
+C:\Users\lllll\OneDrive\Документы\ООП\lab4.1\obj\Debug\lab4.1.csproj.AssemblyReference.cache
+C:\Users\lllll\OneDrive\Документы\ООП\lab4.1\obj\Debug\lab4.1.csproj.CoreCompileInputs.cache
+C:\Users\lllll\OneDrive\Документы\ООП\lab4.1\obj\Debug\lab4.1.exe
+C:\Users\lllll\OneDrive\Документы\ООП\lab4.1\obj\Debug\lab4.1.pdb
